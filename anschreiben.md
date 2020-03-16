@@ -9,4 +9,4 @@
 
 Attached (hat aber wohl ein HaltbarkeitsDatum, bis es irrelevant wird):
 ### COVID19-InfoHighlights-v03.pdf  (5 Seiten, 734 KB)
-Möglicherweise auch mal Updates hier: https://iq100.github.io/covid19/
+Möglicherweise auch mal Updates hier: [https://iq100.github.io/covid19/](https://iq100.github.io/covid19/)
