@@ -10,8 +10,7 @@
 Donnerstag!  
 Corona Zahlen für Land-Kreise in der Region. Bitte weiterleiten an CoronaBeauftragte:  
 
-### COVID19-RegionalDaten_RegBezirk-DETMOLD-undUmgebung_v04.pdf  
-### (2.5M, 31 S.)  
+    COVID19-RegionalDaten_RegBezirk-DETMOLD-undUmgebung_v04.pdf (2.5M, 31 S.)  
 
 PDF-Datei ist WhatsApp geeignet klein. Gern an Dörfer & Nachbarkreise weiterleiten.
 
@@ -38,5 +37,7 @@ Danke. Und viel Glück!
 
 
 Attached (hat aber wohl ein HaltbarkeitsDatum, bis es irrelevant wird):  
-### COVID19-InfoHighlights-v03.pdf  (5 Seiten, 734 KB)  
+
+    COVID19-InfoHighlights-v03.pdf  (5 Seiten, 734 KB)  
+    
 Möglicherweise auch mal Updates hier: [https://iq100.github.io/covid19/](https://iq100.github.io/covid19/)  
